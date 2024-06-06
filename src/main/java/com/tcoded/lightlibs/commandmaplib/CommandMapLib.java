@@ -1,4 +1,4 @@
-package com.tcoded.commandmaplib;
+package com.tcoded.lightlibs.commandmaplib;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Server;
